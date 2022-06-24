@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/suryawanshis/static/css/main.2c4abaec.css",
-    "main.js": "/suryawanshis/static/js/main.31dfe74c.js",
+    "main.js": "/suryawanshis/static/js/main.da19868a.js",
     "static/js/787.6f380eb4.chunk.js": "/suryawanshis/static/js/787.6f380eb4.chunk.js",
     "static/media/two-business-partners-working-together-office-computer.jpeg": "/suryawanshis/static/media/two-business-partners-working-together-office-computer.69ed8dffd8df7396d13a.jpeg",
     "static/media/team-meeting-renewable-energy-project.jpeg": "/suryawanshis/static/media/team-meeting-renewable-energy-project.82ac5580f67b2d3aa42b.jpeg",
@@ -19,11 +19,11 @@
     "static/media/pim-chu-z6NZ76_UTDI-unsplash.jpeg": "/suryawanshis/static/media/pim-chu-z6NZ76_UTDI-unsplash.bc38ee662ffec40371bd.jpeg",
     "index.html": "/suryawanshis/index.html",
     "main.2c4abaec.css.map": "/suryawanshis/static/css/main.2c4abaec.css.map",
-    "main.31dfe74c.js.map": "/suryawanshis/static/js/main.31dfe74c.js.map",
+    "main.da19868a.js.map": "/suryawanshis/static/js/main.da19868a.js.map",
     "787.6f380eb4.chunk.js.map": "/suryawanshis/static/js/787.6f380eb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c4abaec.css",
-    "static/js/main.31dfe74c.js"
+    "static/js/main.da19868a.js"
   ]
 }
