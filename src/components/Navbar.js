@@ -48,7 +48,7 @@ const Navbar = () => {
           >
             <ul className="navbar-nav mx-auto">
               <li className="nav-item">
-                <NavLink className="nav-link" to="/suryawanshis">
+                <NavLink className="nav-link" to="/suryawanshis/home">
                   Home
                 </NavLink>
               </li>
