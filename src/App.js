@@ -19,7 +19,7 @@ function App() {
     < Navbar/>
     <Routes>
       <Route path='/suryawanshis' element={<Home/>} />
-      <Route path='/suryawanshis/home' extact element={<Navigate to="/suryawanshis/"/>} />
+      <Route path='/suryawanshis/home' extact element={<Navigate to="/suryawanshis/home"/>} />
       <Route path='/suryawanshis/about' extact element={<About/>} />
       <Route path='/suryawanshis/project' extact element={<Projects/>} />
       <Route path='/suryawanshis/project/detailspage:id' extact element={<ProjectDetails />} />
