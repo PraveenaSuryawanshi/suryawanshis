@@ -28,7 +28,7 @@ const Navbar = () => {
 
          <Link to="/">
          <strong>
-              <span>Little</span> Fashion
+              <span>Sri</span>
             </strong>
          </Link>
 
@@ -48,19 +48,19 @@ const Navbar = () => {
           >
             <ul className="navbar-nav mx-auto">
               <li className="nav-item">
-                <NavLink className="nav-link" to="/">
+                <NavLink className="nav-link" to="/suryawanshis">
                   Home
                 </NavLink>
               </li>
 
               <li className="nav-item">
-                <NavLink className="nav-link" to="/about">
+                <NavLink className="nav-link" to="/suryawanshis/about">
                   About
                 </NavLink>
               </li>
 
               <li className="nav-item">
-                <NavLink className="nav-link" to="/project">
+                <NavLink className="nav-link" to="/suryawanshis/project">
                   Projects
                 </NavLink>
               </li>
@@ -72,7 +72,7 @@ const Navbar = () => {
               </li> */}
 
               <li className="nav-item">
-                <NavLink className="nav-link" to="/contact">
+                <NavLink className="nav-link" to="/suryawanshis/contact">
                   Contact
                 </NavLink>
               </li>

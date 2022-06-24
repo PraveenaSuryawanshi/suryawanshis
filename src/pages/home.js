@@ -19,22 +19,22 @@ const Home = () => {
     items: [
       {
         id: 1,
-        tittle: "Cool Fashion",
-        desc: "Little fashion template comes with total 8 HTML pages provided by Tooplate website.",
+        tittle: "Cool Team",
+        desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         link: "Learn more about us",
         image: banner1,
       },
       {
         id: 2,
         tittle: "New Design",
-        desc: " Please share this Little Fashion template to your friends. Thank you for supporting us.",
+        desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         link: "Explore products",
         image: banner2,
       },
       {
         id: 3,
         tittle: "Talk to us",
-        desc: "Tooplate is one of the best HTML CSS template websites for everyone.",
+        desc: "sri is one of the best HTML CSS template websites for everyone.",
         link: "Work with us",
         image: banner3,
       },
@@ -43,10 +43,10 @@ const Home = () => {
       {
         id: 1,
         btnname: "Introduction",
-        tittle: "Good Design Ideas for your fashion",
+        tittle: "Good Design Ideas for your website",
         desc: [
-          "Little Fashion templates comes with sign in / sign up pages, product listing / product detail, about, FAQs, and contact page.",
-          "Since this HTML template is based on Boostrap 5 CSS library, you can feel free to add more components as you need.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum g industry.",
         ],
         links: "LEARN MORE ABOUT US",
         img: img1,
@@ -54,10 +54,10 @@ const Home = () => {
       {
         id: 2,
         btnname: "How we work?",
-        tittle: "Good Design Ideas for your fashion",
+        tittle: "Good Design Ideas for your website",
         desc: [
-          "Little Fashion templates comes with sign in / sign up pages, product listing / product detail, about, FAQs, and contact page.",
-          "Since this HTML template is based on Boostrap 5 CSS library, you can feel free to add more components as you need.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         ],
         links: "LEARN MORE ABOUT US",
         img: img2,
@@ -65,10 +65,10 @@ const Home = () => {
       {
         id: 3,
         btnname: "Capabilites",
-        tittle: "Good Design Ideas for your fashion",
+        tittle: "Good Design Ideas for your website",
         desc: [
-          "Little Fashion templates comes with sign in / sign up pages, product listing / product detail, about, FAQs, and contact page.",
-          "Since this HTML template is based on Boostrap 5 CSS library, you can feel free to add more components as you need.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         ],
         links: "LEARN MORE ABOUT US",
         img: banner3,
