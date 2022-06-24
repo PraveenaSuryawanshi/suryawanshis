@@ -46,7 +46,7 @@ const FeatureProject = (props) => {
                                     <>
                                      <div class="col-lg-4 col-12 mb-3">
                             <div class="product-thumb">
-                            <Link to={`/project/detailspage${item.id}`}>
+                            <Link to={`/suryawanshis/project/detailspage${item.id}`}>
                                 <img src={item.img} class="img-fluid product-image" alt=""/>
                                 </Link>
 
@@ -57,7 +57,7 @@ const FeatureProject = (props) => {
                                 <div class="product-info d-flex">
                                     <div>
                                         <h5 class="product-title mb-0">
-                                            <Link to={`/project/detailspage${item.id}`}  class="product-title-link">
+                                            <Link to={`/suryawanshis/project/detailspage${item.id}`}  class="product-title-link">
                                             {item.tittle}
                                             </Link>
                                            
